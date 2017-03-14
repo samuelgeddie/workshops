@@ -3,7 +3,7 @@
 ## Spring 2017 Workshop Series - Friday 3-4:30pm Miriam Library
 
 **Weekly lightning talks, training workshops, and cookies!**
-[Advertisement flyer](Data Science Initiative  S17 Workshop flyer.pdf)
+[Advertisement flyer](Data Science Initiative Workshop flyer.pdf)
 
 #### 3/24/1 (MLIB 045) - Kick off session! / Getting started with R. 
 * **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
