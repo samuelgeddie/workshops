@@ -2,4 +2,9 @@
 
 This repo generates the website for the DSI group at Chico State. 
 
-https://norcalbiostat.github.io/CSUC-DSI/
+https://csucdsi.github.io/workshops/
+
+## People
+Dr. Robin Donatello (MATH)
+Dr. Rick Hubbard (BSIS)
+Dr. Essia Hamouda (CSCI)

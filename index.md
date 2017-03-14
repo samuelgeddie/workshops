@@ -6,7 +6,7 @@
 [Advertisement flyer](Data Science Initiative  S17 Workshop flyer.pdf)
 
 #### 3/24/1 (MLIB 045) - Kick off session! / Getting started with R. 
-* **Presenter:** Dr. Robin Donatello (MATH), Dr. Essia Hamouda (CSCI), Rick Hubbard (BSIS)
+* **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
 * **Location:** MLIB 045
 * **Description:** 	Informational session about who we are, what we are doing, and how you 
 can learn/contribute. Hands on session with R in the last 30 minutes. 
@@ -15,7 +15,7 @@ can learn/contribute. Hands on session with R in the last 30 minutes.
 
 #### 4/7/2017 - Preparing Data for Analysis
 
-* **Presenter:** Rick Hubbard
+* **Presenter:** Dr. Rick Hubbard
 * **Location:** MLIB 442
 * **Level:** No Experience needed. 
 * **Description:** Got data need analysis? 80% of data analysis is cleaning the data, 
@@ -25,7 +25,7 @@ analysis program of choice.
 
 
 #### 4/14/2017 - Exploring your data
-* **Presenter:** Dr. Robin Donatello (MATH)
+* **Presenter:** Dr. Robin Donatello 
 * **Location:** MLIB 442
 * **Description:** 	How to start to understand what information your data contains by 
 creating tables, summary stats, creating basic visualizations. How to identify missing
@@ -33,7 +33,7 @@ data and discussion on how to handle missing values.
 
 
 #### 4/21/2017	- How to get help with R. 
-* **Presenter:** Dr. Essia Hamouda (CSCI)
+* **Presenter:** Dr. Essia Hamouda 
 * **Location:** MLIB 045
 * **Description:** 	
 
@@ -45,6 +45,10 @@ data and discussion on how to handle missing values.
 
 
 #### 5/5/2017	- Visualizing your Data using ggplot2
-* **Presenter:** Dr. Essia Hamouda (CS)
+* **Presenter:** Dr. Essia Hamouda 
 * **Location:** MLIB 442
 * **Description:** 	
+
+
+#### 5/12/2017 - Networking Event
+* **Host:** Dr. Rick Hubbard
