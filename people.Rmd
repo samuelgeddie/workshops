@@ -1,15 +1,11 @@
 ---
-title: "The Data Science Initative Steering Committee"
+title: "The DSI Team"
 output:
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
 ---
 
-
-```{r results="asis", echo=FALSE,eval=FALSE}
-source("stylesheets/table_css_blue")
-```
 
 <table>
 <tbody>
