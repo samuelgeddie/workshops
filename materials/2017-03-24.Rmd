@@ -1,0 +1,26 @@
+---
+title: "Introduction Session"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+# Logistics
+
+* **Date:** Friday March 24, 2017 
+* **Time:** 3-4:30 pm
+* **Location:** MLIB 045
+* **RSVP:** https://goo.gl/forms/czkWtAPN3eEMSxqk2  (Optional, but helpful)
+
+
+# Overview
+
+In this kick off session we'll discuss what Data Science is, how the Data Science Initiative at Chico State is rising to meet the challenge of preparing and training a much needed computational science workforce, and how you can be a part of it. Then we'll launch into a hands-on introduction to R. 
+
+
+
+# Materials
+
+* Slides will be posted here. 
+* Introduction to R code files also posted here. 

@@ -5,12 +5,10 @@
 **Weekly lightning talks, training workshops, and cookies!**
 [Advertisement flyer](Data Science Initiative Workshop Flier.pdf)
 
-#### 3/24/1 (MLIB 045) - Kick off session! / Getting started with R. 
+#### 3/24/2017 (MLIB 045) - [Kick off session! / Getting started with R.](materials/2017-03-24.html)
 * **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
-* **Location:** MLIB 045
 * **Description:** 	Informational session about who we are, what we are doing, and how you 
-can learn/contribute. Hands on session with R in the last 30 minutes. 
-* **Materials:** Materials will be linked [here]()
+can learn/contribute. Hands on introduction to R and R Studio. 
 
 
 #### 4/7/2017 - Preparing Data for Analysis
