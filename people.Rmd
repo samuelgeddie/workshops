@@ -1,0 +1,37 @@
+---
+title: "People"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+
+<table>
+<tbody>
+
+<tr>
+<td>Dr. Robin Donatello<img src="/Users/rdonatello/Dropbox/Professional/Robin Donatello.jpg" alt="" /></td>
+<td><strong>Email: </strong> rdonatello@csuchico.edu <br> 
+    <strong>Classes: </strong>MATH 105: Statistics, MATH 130: Introduction to R, MATH 315, MATH 385, MATH 456, MATH 485, MATH 615</td>
+<td>Dr. Donatello is an Assistant Professor in the Department of Mathematics and Statistics. She is also the Data Science Initative Coordinator</td>
+</tr>
+
+<tr>
+<td>Dr. Rick Hubbard</td>
+<td><strong>Email: </strong> rphubbard@csuchico.edu <br> 
+    <strong>Classes: </strong>105,315,350, Intro to Data Science, R</td>
+<td> Ricardo's Bio. 
+</td>
+</tr>
+
+<tr>
+<td>Dr. Essia Hamouda</td>
+<td><strong>Email: </strong> ehamouda@csuchico.edu <br> 
+    <strong>Classes: </strong>CSCI 385, CSCI 485</td>
+<td> 
+</td>
+</tr>
+
+</tbody>
+</table>
