@@ -208,7 +208,6 @@ All set up and ready to go?
 There are a bajillion ways to learn how to program R. Here are some recommended places to start. 
 Just remember. R is open source. It's free. Training is not always free, but there are plenty of free resources out there. Often books will have accompanying websites or free PDF's available. 
 
-<span style="color:red">Warning:</span> R is a rapidly evolving beast. Stick to resources posted in the past year or two. Three at most. Five is like that casserole that's been in the back of the fridge for some time now. Use at your own risk. 
 
 * [Data Camp](https://www.datacamp.com/courses/free-introduction-to-r). Their introduction to R course is totally free. 
 * R studio has [tutorials](https://www.rstudio.com/online-learning/)

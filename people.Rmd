@@ -12,27 +12,27 @@ output:
 
 <tr>
 <td>Dr. Robin Donatello<img src="images/robin.jpg" alt="" /></td>
-<td><strong>Speciality: </strong> Biostatistics <br> <br>
+<td><strong>Specialty: </strong> Biostatistics <br> <br>
     <strong>Teaches: </strong><br>
         MATH 105: Statistics, MATH 130: Introduction to R, MATH 315, MATH 385, MATH 456, MATH 485, MATH 615 <br> <br>
     <strong>Contact: </strong> rdonatello@csuchico.edu <br>
     <a href="www.norcalbiostat.com">www.norcalbiostat.com</a> <br> </td>
-<td>Dr. Donatello is an Assistant Professor in the Department of Mathematics and Statistics. She is also the Data Science Initative Coordinator.</td>
+<td>Dr. Donatello is an Assistant Professor in the Department of Mathematics and Statistics. She is also the Data Science Initiative Coordinator.</td>
 </tr>
 
 <tr>
 <td>Dr. Rick Hubbard<img src="images/rick.jpg" alt="" /></td>
-<td><strong>Speciality: </strong> Design Thinking <br> <br>
+<td><strong>Specialty: </strong> Design Thinking <br> <br>
     <strong>Teaches: </strong>BSIS 610  <br><br>
     <strong>Contact: </strong> rphubbard@csuchico.edu <br> 
     </td>
-<td> Dr. Hubbard is a Lecturer in the Department of Business Informations Systems. 
+<td> Dr. Hubbard is a Lecturer in the Department of Business Information Systems. 
 </td>
 </tr>
 
 <tr>
 <td>Dr. Essia Hamouda<img src="images/essia.jpg" alt="" /></td>
-<td><strong>Speciality: </strong> Networking <br> <br>
+<td><strong>Specialty: </strong> Networking <br> <br>
     <strong>Teaches: </strong>CSCI 385, CSCI 485 <br> <br>
     <strong>Contact: </strong> ehamouda@csuchico.edu 
 </td>
