@@ -1,0 +1,11 @@
+---
+title: "The DSI Team"
+subtitle: "subtitle"
+author: "author"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+This is a test home page
