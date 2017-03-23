@@ -65,8 +65,8 @@ table(DSCOI$dept)
 DSCOI$datetime <- as.POSIXct(DSCOI$timestamp, format="%m/%d/%Y %H:%M:%S")
 is(DSCOI$datetime)
 
-# Now we can get the difference (in hours) between now, and when they RSVP'd
-DSCOI$diffhr <- difftime(DSCOI$datetime, Sys.time())
+# Now we can get the difference (in days) between now, and when they RSVP'd
+DSCOI$diffhr <- difftime(DSCOI$datetime, Sys.time())/24/60
 
 # Visualize this
 hist(as.numeric(DSCOI$diffhr))

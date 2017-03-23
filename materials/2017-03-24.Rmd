@@ -26,7 +26,7 @@ In this kick off session we'll discuss what Data Science is, how the Data Scienc
    **NOT COVERED DURING WORKSHOP**
    
 * Hands on Introduction to R - Exploring the Data Science Community in Chico. 
-    - Right click [[this link]](2017-03-24_IntroR_whois_DS.R) and select "save link as" to download the source code for today. 
+    - [[Download R code]](2017-03-24_IntroR_whois_DS.R) to download the source code for today. 
         - Opened in a browser window? Try your other right. 
         - Mac? Two finger click. 
     - Save this file to an easy to find place. Desktops are nice. 
