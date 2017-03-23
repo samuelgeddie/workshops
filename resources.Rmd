@@ -1,10 +1,47 @@
 ---
-title: "Resources"
+title: "Resources / FAQ"
 output:
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
 ---
 
-#External resources to learn and get help with R
-https://d-rug.github.io/getting-started.html
+# I don't have my own computer. Where can I use R on campus?
+
+* 3 reserve computers in MLIB 
+* Center for Water and the Environment labs 
+
+
+Want R installed in your campus lab? Contact Robin!
+
+
+# Where else can I go to learn and get help with R?
+... Let me count the ways. 
+
+#### Crowd sourcing
+* Davis R Users group https://d-rug.github.io/getting-started.html
+* A collection of R Bloggers https://www.r-bloggers.com/
+* Chico R Users Group https://groups.google.com/forum/#!forum/chico_rug 
+
+#### Books
+* The R Cookbook http://www.cookbook-r.com/
+* Happy Git and GitHub for the useR http://happygitwithr.com/ 
+* R for Data Science http://r4ds.had.co.nz/ 
+* The Art of R Programming https://www.nostarch.com/artofr.htm 
+* Springer's useR! Series of short reference books http://www.springer.com/series/6991?detailsPage=titles 
+* Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving http://rdatasciencecases.org/ 
+
+
+#### Courses
+* [Current Data Science course offerings at CSUC](courses.html)
+* Data Carpentry "Before we start" http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html
+* [Data Camp](https://www.datacamp.com/courses/free-introduction-to-r). Their introduction to R course is totally free. 
+* [Coursera](https://www.coursera.org/browse/data-science) offers at least one course in basic R. 
+
+
+#### Tutorials
+
+* The [DSI Workshops](index.html) of course. Free, drop in, short topic specific. 
+* R studio has [tutorials](https://www.rstudio.com/online-learning/)
+* [You Tube](https://www.youtube.com/results?search_query=Learn+R) for short specific questions. 
+* [Software Carpentry](https://software-carpentry.org/) & [Data Carpentry](http://www.datacarpentry.org/) (The DSI will be looking to host these workshops here if we have critical mass!)

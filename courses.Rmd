@@ -8,7 +8,7 @@ output:
 
 # Introductory
 
-* MATH 130: Introduction to R (Robin Donatello)
+* [MATH 130](http://www.norcalbiostat.com/MATH130/home_130.html): Introduction to R (Robin Donatello)
 * MATH 315: Applied Statistical Methods I (Robin Donatello, Edward Roualdes, Kathy Gray)
 * MATH 385 / CSCI 385: Introduction to Data Science (Robin Donatello, Essia Hamouda)
 * JOUR 310: Data Journalism ()

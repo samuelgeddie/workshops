@@ -24,6 +24,7 @@ The DSI is an interdisciplinary community that provides support and training for
 * **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
 * **Location:** MLIB 045
 * **Level:** No Experience needed. 
+* **[RSVP Form](https://goo.gl/forms/czkWtAPN3eEMSxqk2)**  (Optional, but helpful)
 * **Description:** 	Informational session about who we are, what we are doing, and how you 
 can learn/contribute. Hands on introduction to R and R Studio. 
 

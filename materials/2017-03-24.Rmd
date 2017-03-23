@@ -19,8 +19,13 @@ output:
 In this kick off session we'll discuss what Data Science is, how the Data Science Initiative at Chico State is rising to meet the challenge of preparing and training a much needed computational science workforce, and how you can be a part of it. Then we'll launch into a hands-on introduction to R. 
 
 
-
 # Materials
 
 * Slides will be posted here. 
-* Introduction to R code files also posted here. 
+* Introduction to R
+    - Program installation, setup, preferences [[HTML only]](2017-03-24_Intro_R_Overview.html) 
+    - Hands on Demo [[RMD file]]()
+
+
+
+
