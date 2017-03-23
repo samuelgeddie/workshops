@@ -1,0 +1,10 @@
+---
+title: "Resources"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+#External resources to learn and get help with R
+https://d-rug.github.io/getting-started.html
