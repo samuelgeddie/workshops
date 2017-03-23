@@ -1,31 +1,30 @@
 ---
-title: "Courses Taught"
+title: "Data Science Related Courses"
 output:
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
 ---
 
-# [Dr. Robin Donatello](https://apps.csuchico.edu/directory/Employee/rjeffries)
+# Introductory
 
-* MATH 105: Statistics
-* MATH 130: Introduction to R
-* MATH 315: Applied Statistical Methods I
-* MATH 385: Introduction to Data Science
-* MATH 456: Applied Statistical Methods II
-* MATH 485: Advanced Data Science (Coming Spring 18)
-* MATH 615: Statistical Methods for Graduate Research
+* MATH 130: Introduction to R (Robin Donatello)
+* MATH 315: Applied Statistical Methods I (Robin Donatello, Edward Roualdes, Kathy Gray)
+* MATH 385 / CSCI 385: Introduction to Data Science (Robin Donatello, Essia Hamouda)
+* JOUR 310: Data Journalism ()
 
 
-# [Dr. Rick Hubbard](https://apps.csuchico.edu/directory/Employee/rphubbard)
+# Advanced
 
-* BSIS 610: Business Analytics
+* MATH 456: Applied Statistical Methods II (Robin Donatello, Kathy Gray)
+* MATH 485 / CSCI 485: Advanced Data Science (Coming Spring 18) (Robin Donatello, Essia Hamouda)
+* CSCI 446: Introduction to Computer Networks and Network Management (Essia Hamouda)
+* CSCI 582: Artificial Intelligence (Elena Harris)
+* CSCI 580: Bioinformatics (Elena Harris)
 
 
-# [Dr. Essia Hamouda](https://www.csuchico.edu/csci/faculty-staff/Hamouda,%20Essia%20Ph.D..shtml)
+# Graduate
 
-* CSCI 144: Introduction to UNIX/Linux
-* CSCI 385: Introduction to Data Science
-* CSCI 446: Introduction to Computer Networks and Network Management
-* CSCI 485: Advanced Data Science (Coming Spring 18)
+* MATH 615: Statistical Methods for Graduate Research (Robin Donatello, Kathy Gray)
+* BSIS 610: Business Analytics (Rick Hubbard)
 

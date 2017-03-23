@@ -1,5 +1,5 @@
 ---
-title: "The DSI Team"
+title: "The CSUC Data Science Initative Steering Team"
 output:
   prettydoc::html_pretty:
     theme: cayman
@@ -11,16 +11,17 @@ output:
 <tbody>
 
 <tr>
-<td>Dr. Robin Donatello<img src="C:/GitHub/CSUCDSI/images/robin.jpg" alt="" /></td>
+<td>Dr. Robin Donatello<img src="images/robin.jpg" alt="" /></td>
 <td><strong>Speciality: </strong> Biostatistics <br> <br>
     <strong>Teaches: </strong><br>
         MATH 105: Statistics, MATH 130: Introduction to R, MATH 315, MATH 385, MATH 456, MATH 485, MATH 615 <br> <br>
-    <strong>Contact: </strong> rdonatello@csuchico.edu <br> </td>
+    <strong>Contact: </strong> rdonatello@csuchico.edu <br>
+    <a href="www.norcalbiostat.com">www.norcalbiostat.com</a> <br> </td>
 <td>Dr. Donatello is an Assistant Professor in the Department of Mathematics and Statistics. She is also the Data Science Initative Coordinator.</td>
 </tr>
 
 <tr>
-<td>Dr. Rick Hubbard<img src="C:/GitHub/CSUCDSI/images/rick.jpg" alt="" /></td>
+<td>Dr. Rick Hubbard<img src="images/rick.jpg" alt="" /></td>
 <td><strong>Speciality: </strong> Design Thinking <br> <br>
     <strong>Teaches: </strong>BSIS 610  <br><br>
     <strong>Contact: </strong> rphubbard@csuchico.edu <br> 
@@ -30,7 +31,7 @@ output:
 </tr>
 
 <tr>
-<td>Dr. Essia Hamouda<img src="C:/GitHub/CSUCDSI/images/essia.jpg" alt="" /></td>
+<td>Dr. Essia Hamouda<img src="images/essia.jpg" alt="" /></td>
 <td><strong>Speciality: </strong> Networking <br> <br>
     <strong>Teaches: </strong>CSCI 385, CSCI 485 <br> <br>
     <strong>Contact: </strong> ehamouda@csuchico.edu 
