@@ -1,6 +1,6 @@
 ---
 title: "Data Science at Chico State"
-subtitle: "“Without data, you're just another person with an opinion.” ― W. Edwards Deming"
+subtitle: " -_Without data, you're just another person with an opinion._  W. Edwards Deming' "
 output:
   prettydoc::html_pretty:
     theme: cayman
@@ -11,10 +11,10 @@ output:
 
 The DSI is an interdisciplinary community that provides support and training for Data Science to the Chico State Campus and community. 
 
-* Read more about our [mission]() here. 
+<!--* Read more about our [mission](mission.html) here. -->
 * Who are the [people](people.html) involved? 
+* Read our [report](DSInterestSurveyAnalysis.pdf) on a Survey of Data Science Interest at Chico State. 
 * Current Data Science related [courses](courses.html). 
-
 
 # Spring 2017 Workshop Series - Friday 3-4:30pm Miriam Library
 

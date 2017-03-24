@@ -20,7 +20,7 @@ In this kick off session we'll discuss what Data Science is, how the Data Scienc
 
 # Materials
 
-* Introduction slides will be posted here. 
+* Introduction slides will be posted here after the event. 
 
 * Program installation, setup, preferences [[HTML only]](2017-03-24_Intro_R_Overview.html) 
    **NOT COVERED DURING WORKSHOP**
