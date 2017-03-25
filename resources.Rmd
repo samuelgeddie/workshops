@@ -39,7 +39,7 @@ Here are some suggested resource
 
 #### Courses
 * [Data Camp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r). One of the current best web-based teaching modules to learn how to program / learn a new Data Science skill. 
-* Current Data Science [course offerings](courses.html) at CSUC.
+* Current Data Science [course offerings](curriculum/courses.html) at CSUC.
 * [Coursera](https://www.coursera.org/browse/data-science) offers at least one course in basic R. 
 
 

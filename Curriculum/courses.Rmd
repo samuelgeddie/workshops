@@ -1,16 +1,24 @@
 ---
-title: "Data Science Related Courses"
+title: "Chico State Data Science Related Courses and Programs"
 output:
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
 ---
 
+# Degree / Certification Programs
+Undergraduate Certificate in Data Science  
+
+* DS at Chico State: A three course sequence [[PDF]](DS at CSUC - A three course sequence.pdf)
+* Full Certificate Proposal [[PDF]](DS Certificate Proposal 20170314.pdf)
+
+ 
+
 # Introductory
 
 * [MATH 130](http://www.norcalbiostat.com/MATH130/home_130.html): Introduction to R (Robin Donatello)
 * MATH 315: Applied Statistical Methods I (Robin Donatello, Edward Roualdes, Kathy Gray)
-* MATH 385 / CSCI 385: Introduction to Data Science (Robin Donatello, Essia Hamouda)
+* [MATH 385 / CSCI 385](IDS Syllabus.pdf): Introduction to Data Science (Robin Donatello, Essia Hamouda)
 * JOUR 310: Data Journalism ()
 
 
@@ -27,4 +35,8 @@ output:
 
 * MATH 615: Statistical Methods for Graduate Research (Robin Donatello, Kathy Gray)
 * BSIS 610: Business Analytics (Rick Hubbard)
+
+----
+
+Missing something? Want me to add your class? Let us know!
 
