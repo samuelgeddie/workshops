@@ -11,7 +11,6 @@ output:
 * **Date:** Friday March 24, 2017 
 * **Time:** 3-4:30 pm
 * **Location:** MLIB 045
-* **RSVP:** https://goo.gl/forms/czkWtAPN3eEMSxqk2  (Optional, but helpful)
 
 
 # Overview
@@ -20,15 +19,14 @@ In this kick off session we'll discuss what Data Science is, how the Data Scienc
 
 # Materials
 
-* Introduction slides will be posted here after the event. 
+* Introduction [slide deck](2017-03-24_Slides.pdf).
 
 * Program installation, setup, preferences [[HTML only]](2017-03-24_Intro_R_Overview.html) 
-   **NOT COVERED DURING WORKSHOP**
+   **NOT COVERED FULLY DURING WORKSHOP**
    
 * Hands on Introduction to R - Exploring the Data Science Community in Chico. 
     - [[Download R code]](2017-03-24_IntroR_whois_DS.R) to download the source code for today. 
-        - Opened in a browser window? Try your other right. 
-        - Mac? Two finger click. 
+        - Opened in a browser window? Right click & "save as" or "save link as"
     - Save this file to an easy to find place. Desktops are nice. 
     - Browse your computer to this place, and double click to open the file in R Studio. 
         - Opening it from the browser window will fail at some point. Don't do this. 
@@ -36,7 +34,7 @@ In this kick off session we'll discuss what Data Science is, how the Data Scienc
 
 ### R package requirements
 This tutorial uses the following packages:
-`ggplot2`, `googlesheets`, `magrittr`
+`ggplot2`, `googlesheets`
 
 
 

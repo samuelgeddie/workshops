@@ -22,7 +22,7 @@ library(googlesheets)
 library(ggplot2)
 
 # Don't have these packages installed yet? Replace the word NEED_PACKAGE in the line below with the package you want to install. 
-install.packages("NEED_PACKAGE")
+install.packages("googlesheets")
 
 ##### ----- EXPLORE DS COI ---- ####
 
@@ -48,11 +48,13 @@ names(DSCOI)
 
 # Horrible. Rename them. 
 names(DSCOI) <- c("timestamp", "affiliation", "dept", "desire", "email", "favnum")
+
+names(DSCOI)[3:4] <- c("a", "B")
+
 names(DSCOI) # Check the names again. Trust, but verify
 
 # What are the data types? 
 str(DSCOI)
-
 
 # How many different types of people do we have here today? 
 table(DSCOI$affiliation)
@@ -66,7 +68,7 @@ DSCOI$datetime <- as.POSIXct(DSCOI$timestamp, format="%m/%d/%Y %H:%M:%S")
 is(DSCOI$datetime)
 
 # Now we can get the difference (in days) between now, and when they RSVP'd
-DSCOI$diffhr <- difftime(DSCOI$datetime, Sys.time())/24/60
+DSCOI$diffhr <- difftime(DSCOI$datetime, Sys.time())/24
 
 # Visualize this
 hist(as.numeric(DSCOI$diffhr))
