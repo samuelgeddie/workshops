@@ -1,0 +1,29 @@
+---
+title: "Title of workshop"
+author: "Presenter"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+# Logistics
+
+* **Date:** 
+* **Time:** 
+* **Location:** 
+
+# Overview
+
+
+# Learning Objectives
+
+# Software Requirements
+
+    
+# Additional Files
+
+
+
+
+

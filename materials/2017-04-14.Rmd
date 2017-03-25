@@ -1,0 +1,38 @@
+---
+title: "Exploring your data"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+# Logistics
+
+* **Date:** Friday April 14, 2017 
+* **Time:** 3-4:30 pm
+* **Location:** MLIB 442
+
+# Overview
+
+Bring your own data set and let's help you explore your data! 
+
+# Learning Objectives
+* Read data into R from common data storage files types such as *.txt, *.csv and *.xlsx
+* Create frequency and proportion tables of categorical variables
+* Create summary statistics of numerical data
+* Create basic visualizations such as a bar chart, pie chart, histogram, boxplot
+
+# Software Requirements
+  - Have R and R Studio installed on your computer. 
+  - Can navigate around R Studio. 
+
+    
+### R package used
+This session uses the following packages:
+
+# Additional Files
+
+
+
+
+

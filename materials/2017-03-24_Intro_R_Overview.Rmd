@@ -20,14 +20,16 @@ This document contains information on the R program "ecosystem", how to download
 
 1. **R**  -- The programming language. Kinda mandatory. 
 2. **R Studio** -- A fantastic interface for coding in R. Might as well be mandatory. 
-3. **R Commander** -- A true to form GUI (point and click) for using R. (Optional)
+
+#### Optional Programs
+3. **R Commander** -- A true to form GUI (point and click) for using R. 
 4. **LaTeX** -- Necessary if you want to create PDF reports. 
 
 ### Download and install R
 
 Download the latest versions of R and R Studio for your flavor of operating system from http://cran.r-project.org/
 
-* Windows: https://cran.r-project.org/bin/windows/base/ 
+* Windows: http://www.rstudio.com/products/rstudio/download2/bin/windows/base/ 
 
 Install Options:
   - Don't use a personal library
@@ -44,6 +46,7 @@ If you are having difficulty installing these programs here are links to helpful
 - [Mac Instructions](http://www.youtube.com/watch?v=uxuuWXU-7UQ)
 - [Windows Instructions](http://www.youtube.com/watch?v=Ohnk9hcxf9M)
 
+<span style="color:red">Simplified Mac Instructions using Homebrew coming soon!</span>
 
 # R Studio
 
