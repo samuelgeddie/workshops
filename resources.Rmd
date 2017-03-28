@@ -17,6 +17,13 @@ Review our [Intro to R](http://datascience.csuchico.edu/materials/2017-03-24_Int
 
 Data Carpentry has a really good "Before we start" page http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html
 
+_Split this section into R/Rstudio/packages_
+
+## Download R and R studio
+
+* Windows instructions - for now review the Intro to R slides linked above. 
+* Justin Bankes has written up instructions on how to [install R on a Mac via Homebrew](materials/install_r_with_homebrew.md)
+
 # I don't have my own computer. Where can I use R on campus?
 
 * 3 reserve computers in MLIB 

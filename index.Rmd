@@ -11,27 +11,18 @@ output:
 
 The DSI is an interdisciplinary community that provides support and training for Data Science to the Chico State Campus and community. 
 
-<!--* Read more about our [mission](mission.html) here. -->
+* Read more about our [mission](mission.html).
 * Who are the [people](people.html) involved? 
 * Read our [report](DSInterestSurveyAnalysis.pdf) on a Survey of Data Science Interest at Chico State. 
-* Data Science related [courses](Curriculum/courses.html). 
+* Data Science related [courses](Curriculum/courses.html) at Chico State.  
+* Additional [Resources](resources.html) to learn R. 
 
 # Spring 2017 Workshop Series - Friday 3-4:30pm Miriam Library
 
-[Advertisement flyer](Data Science Initiative Workshop Flier.pdf)
+* [Campus Map](http://www.csuchico.edu/maps/documents/Chico-State-Campus-map.pdf) with parking.
+* [Advertisement flyer](Data Science Initiative Workshop Flier.pdf)
 
-Some [Resources](resources.html) to learn R. 
-
-All workshops are held in the Miriam Library. [Here](http://www.csuchico.edu/maps/documents/Chico-State-Campus-map.pdf) is a campus map with parking.
-
-
-#### 3/24/2017 - Kick off session! / Getting started with R.
-* **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
-* **Location:** MLIB 045
-* **Level:** No Experience needed. 
-* **Description:** 	Informational session about who we are, what we are doing, and how you 
-can learn/contribute. Hands on introduction to R and R Studio. 
-* **Details:** [Slides and code](materials/2017-03-24.html) files. 
+----
 
 #### 4/7/2017 - Preparing Data for Analysis
 
@@ -76,6 +67,20 @@ analysis program of choice.
 * **Host:** Dr. Rick Hubbard
 * **Location:** TBD
 
+
+----
+
+# Past Sessions
+
+---
+
+#### 3/24/2017 - Kick off session! / Getting started with R.
+* **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
+* **Location:** MLIB 045
+* **Level:** No Experience needed. 
+* **Description:** 	Informational session about who we are, what we are doing, and how you 
+can learn/contribute. Hands on introduction to R and R Studio. 
+* **Details:** [Slides and code](materials/2017-03-24.html) files. 
 
 
 
