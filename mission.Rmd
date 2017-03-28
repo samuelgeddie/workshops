@@ -6,12 +6,12 @@ output:
     highlight: github
 ---
 
-#Data Science Initiative (DSI) at CSU, Chico
+# Data Science Initiative (DSI) at CSU, Chico
 * Prepare students for success in the Analytics Economy
 * Support Campus in their efforts
 * Enable the community to benefit from Applied Data Science
 
-#How We Got Here
+# How We Got Here
 * Concept of Data Science program initiated by Provost Bell Wei
 * Robin was hired (in part) to develop this program
 * Tasked with building curriculum to train Data Scientists (or atleast prepare them for grad. school in Data Science)
@@ -19,7 +19,7 @@ output:
 * Encouragement and enthusiasm has come from all corners of campus and community
 * A [report](DSInterestSurveyAnalysis.pdf) on the current state of Data Science Interest at Chico State is available on our website (and still open to contribution!)
 
-#A Resource for Campus and Community
+# A Resource for Campus and Community
 The Data Science Initiative aims to help organize the Data Science community by:
 
 * Providing a centralized location for information sharing and networking
@@ -27,14 +27,14 @@ The Data Science Initiative aims to help organize the Data Science community by:
 * Providing a comprehensive overview of data science related curriculum connecting researchers and students
 * Connecting community partners with campus resources
 
-#The DSI-Workshops
+# The DSI-Workshops
 To these ends, and important focus of the DSI are "DSI-Workshops" which offer:
 
 Timely resources, practical advice, and germane information regarding areas-of-interest to all Data Science users -from novice to expert practitioners
 
 These workshops are one small step for the DSI, but **one giant** leap for the community
 
-#What are the DSI-Workshops
+# What are the DSI-Workshops
 * Short events to enable people from across campus and community to learn about data science/analytic techniques and software
 * Hands on - active participation
 * Drop in as interested
