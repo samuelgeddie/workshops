@@ -22,6 +22,8 @@ The DSI is an interdisciplinary community that provides support and training for
 
 Some [Resources](resources.html) to learn R. 
 
+All workshops are held in the Miriam Library. [Here](http://www.csuchico.edu/maps/documents/Chico-State-Campus-map.pdf) is a campus map with parking.
+
 
 #### 3/24/2017 - Kick off session! / Getting started with R.
 * **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
