@@ -14,7 +14,7 @@ The DSI is an interdisciplinary community that provides support and training for
 <!--* Read more about our [mission](mission.html) here. -->
 * Who are the [people](people.html) involved? 
 * Read our [report](DSInterestSurveyAnalysis.pdf) on a Survey of Data Science Interest at Chico State. 
-* Data Science related [courses](curriculum/courses.html). 
+* Data Science related [courses](Curriculum/courses.html). 
 
 # Spring 2017 Workshop Series - Friday 3-4:30pm Miriam Library
 
