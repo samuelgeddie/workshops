@@ -33,7 +33,7 @@ The DSI is an interdisciplinary community that provides support and training for
 you can cut that time down by setting yourself up for success! Come learn how to reduce 
 headaches by recording data in a manner that will allow for a smooth import into your 
 analysis program of choice. 
-* **Details:** TBD
+* **Details:** [Workshop Details](materials/2017-04-07.html)
 
 #### 4/14/2017 - Exploring your data
 * **Presenter:** Dr. Robin Donatello 
