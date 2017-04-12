@@ -13,6 +13,8 @@ output:
 * Friday
 * April 7, 2017
 
+# Materials
+* Participant Guide [[PDF]](2017-04-7_Tidy-Data-Workshop-Participant-Guide.pdf)
  
 # Are Your Data Tidy? Or, untidy?
  

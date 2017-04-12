@@ -282,6 +282,11 @@ wp_nomiss <- subset(washpost15, !is.na(washpost15$flee))
 ggplot(wp_nomiss, aes(x=flee)) + geom_bar()
 ```
 
+****
+
+<h1 style="text-align:center; font-size:150%;"> -- END -- </h1>
+
+****
 
 
 
