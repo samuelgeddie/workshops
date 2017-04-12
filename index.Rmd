@@ -1,6 +1,7 @@
 ---
 title: "Data Science at Chico State"
-subtitle: " -_Without data, you're just another person with an opinion._  W. Edwards Deming' "
+subtitle: "Without data, you're just another person with an opinion."
+author: "W.E. Deming"
 output:
   prettydoc::html_pretty:
     theme: cayman
@@ -21,26 +22,16 @@ The DSI is an interdisciplinary community that provides support and training for
 
 * [Campus Map](http://www.csuchico.edu/maps/documents/Chico-State-Campus-map.pdf) with parking.
 * [Advertisement flyer](Data Science Initiative Workshop Flier.pdf)
+* [FAQ](resources.html)
 
 ----
-
-#### 4/7/2017 - Preparing Data for Analysis
-
-* **Presenter:** Dr. Rick Hubbard
-* **Location:** MLIB 442
-* **Level:** No Experience needed. 
-* **Description:** Got data need analysis? 80% of data analysis is cleaning the data, 
-you can cut that time down by setting yourself up for success! Come learn how to reduce 
-headaches by recording data in a manner that will allow for a smooth import into your 
-analysis program of choice. 
-* **Details:** [Workshop Details](materials/2017-04-07.html)
 
 #### 4/14/2017 - Exploring your data
 * **Presenter:** Dr. Robin Donatello 
 * **Location:** MLIB 442
 * **Level:** Beginner/Novice R
 * **Description:** 	How to read data into R and start exploring. Bring your own data set and let's help you explore your data! 
-* **Details:** [Workshop Details](materials/2017-04-14.html)
+* **Details:** [Workshop Details and materials](materials/2017-04-14.html)
 
 #### 4/21/2017	- How to get help with R. 
 * **Presenter:** Dr. Essia Hamouda 
@@ -83,4 +74,14 @@ can learn/contribute. Hands on introduction to R and R Studio.
 * **Details:** [Slides and code](materials/2017-03-24.html) files. 
 
 
+#### 4/7/2017 - Preparing Data for Analysis
+
+* **Presenter:** Dr. Rick Hubbard
+* **Location:** MLIB 442
+* **Level:** No Experience needed. 
+* **Description:** Got data need analysis? 80% of data analysis is cleaning the data, 
+you can cut that time down by setting yourself up for success! Come learn how to reduce 
+headaches by recording data in a manner that will allow for a smooth import into your 
+analysis program of choice. 
+* **Details:** [Workshop Details](materials/2017-04-07.html)
 

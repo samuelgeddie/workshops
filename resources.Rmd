@@ -6,6 +6,7 @@ output:
     highlight: github
 ---
 
+
 # Where do I start? 
 Review our [Intro to R](http://datascience.csuchico.edu/materials/2017-03-24_Intro_R_Overview.html) page to get information on   
 
@@ -30,6 +31,12 @@ _Split this section into R/Rstudio/packages_
 * Center for Water and the Environment labs 
 
 Want R installed in your class or department lab? Contact Robin!
+
+# I'm not affiliated with campus, how do I get access to the internet during the workshop? 
+
+1. Connect to **chico-guest** wirless network
+2. Username: guestwireless@cns
+3. Password - will be provided during the workshop.
 
 
 # Where else can I go to learn and get help with R?
