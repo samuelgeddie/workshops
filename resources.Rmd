@@ -1,10 +1,71 @@
 ---
-title: "Resources"
+title: "Resources / FAQ"
 output:
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
 ---
 
-#External resources to learn and get help with R
-https://d-rug.github.io/getting-started.html
+
+# Where do I start? 
+Review our [Intro to R](http://datascience.csuchico.edu/materials/2017-03-24_Intro_R_Overview.html) page to get information on   
+
+- how to download and install R and R Studio 
+- how to set some preferences
+- an overview of R Studio
+- how R packages work
+- Advice and links on how to get started learning R.  
+
+Data Carpentry has a really good "Before we start" page http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html
+
+_Split this section into R/Rstudio/packages_
+
+## Download R and R studio
+
+* Windows instructions - for now review the Intro to R slides linked above. 
+* Justin Bankes has written up instructions on how to [install R on a Mac via Homebrew](materials/install_r_with_homebrew.md)
+
+# I don't have my own computer. Where can I use R on campus?
+
+* 3 reserve computers in MLIB 
+* Center for Water and the Environment labs 
+
+Want R installed in your class or department lab? Contact Robin!
+
+# I'm not affiliated with campus, how do I get access to the internet during the workshop? 
+
+1. Connect to **chico-guest** wirless network
+2. Username: guestwireless@cns
+3. Password - will be provided during the workshop.
+
+
+# Where else can I go to learn and get help with R?
+Here are some suggested resource 
+
+#### Books
+* The R Cookbook http://www.cookbook-r.com/
+* Happy Git and GitHub for the useR http://happygitwithr.com/ 
+* R for Data Science http://r4ds.had.co.nz/ 
+* The Art of R Programming https://www.nostarch.com/artofr.htm 
+* Springer's useR! Series of short reference books http://www.springer.com/series/6991?detailsPage=titles 
+* Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving http://rdatasciencecases.org/ 
+
+
+#### Courses
+* [Data Camp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r). One of the current best web-based teaching modules to learn how to program / learn a new Data Science skill. 
+* Current Data Science [course offerings](curriculum/courses.html) at CSUC.
+* [Coursera](https://www.coursera.org/browse/data-science) offers at least one course in basic R. 
+
+
+#### Tutorials
+
+* The [DSI Workshops](index.html) of course. Free, drop in, short topic specific. 
+* R studio has [tutorials](https://www.rstudio.com/online-learning/)
+* [You Tube](https://www.youtube.com/results?search_query=Learn+R) for short specific questions. 
+* [Software Carpentry](https://software-carpentry.org/) & [Data Carpentry](http://www.datacarpentry.org/) (The DSI will be looking to host these workshops here if we have critical mass!)
+
+
+#### Crowd sourcing
+* Davis R Users group https://d-rug.github.io/getting-started.html
+* A collection of R Bloggers https://www.r-bloggers.com/
+* Chico R Users Group https://groups.google.com/forum/#!forum/chico_rug 

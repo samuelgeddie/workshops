@@ -1,0 +1,87 @@
+---
+title: "Data Science at Chico State"
+subtitle: "Without data, you're just another person with an opinion."
+author: "W.E. Deming"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+# What is the Data Science Initative (DSI) at Chico State? 
+
+The DSI is an interdisciplinary community that provides support and training for Data Science to the Chico State Campus and community. 
+
+* Read more about our [mission](mission.html).
+* Who are the [people](people.html) involved? 
+* Read our [report](DSInterestSurveyAnalysis.pdf) on a Survey of Data Science Interest at Chico State. 
+* Data Science related [courses](Curriculum/courses.html) at Chico State.  
+* Additional [Resources](resources.html) to learn R. 
+
+# Spring 2017 Workshop Series - Friday 3-4:30pm Miriam Library
+
+* [Campus Map](http://www.csuchico.edu/maps/documents/Chico-State-Campus-map.pdf) with parking.
+* [Advertisement flyer](Data Science Initiative Workshop Flier.pdf)
+* [FAQ](resources.html)
+
+----
+
+#### 4/14/2017 - Exploring your data
+* **Presenter:** Dr. Robin Donatello 
+* **Location:** MLIB 442
+* **Level:** Beginner/Novice R
+* **Description:** 	How to read data into R and start exploring. Bring your own data set and let's help you explore your data! 
+* **Details:** [Workshop Details and materials](materials/2017-04-14.html)
+
+#### 4/21/2017	- How to get help with R. 
+* **Presenter:** Dr. Essia Hamouda 
+* **Location:** MLIB 045
+* **Level:** Beginner/Novice R  
+* **Description:** 	
+* **Details:** 
+
+#### 4/28/2017	- Analyzing data using R
+* **Presenter:** Dr. Robin Donatello (MATH)
+* **Location:** MLIB 442
+* **Level:** Beginner/Novice R  
+* **Description:** 	Overview of functions used to perform various statistical analysis techniques.
+* **Details:** 
+
+#### 5/5/2017	- Visualizing your Data using ggplot2
+* **Presenter:** Dr. Essia Hamouda 
+* **Location:** MLIB 442
+* **Level:** Beginner/Novice R  
+* **Description:** 	
+* **Details:** 
+
+#### 5/12/2017 - Networking Event
+* **Host:** Dr. Rick Hubbard
+* **Location:** TBD
+
+
+----
+
+# Past Sessions
+
+---
+
+#### 3/24/2017 - Kick off session! / Getting started with R.
+* **Presenter:** Dr. Robin Donatello (MATH), Dr. Rick Hubbard (BSIS), Dr. Essia Hamouda (CSCI)
+* **Location:** MLIB 045
+* **Level:** No Experience needed. 
+* **Description:** 	Informational session about who we are, what we are doing, and how you 
+can learn/contribute. Hands on introduction to R and R Studio. 
+* **Details:** [Slides and code](materials/2017-03-24.html) files. 
+
+
+#### 4/7/2017 - Preparing Data for Analysis
+
+* **Presenter:** Dr. Rick Hubbard
+* **Location:** MLIB 442
+* **Level:** No Experience needed. 
+* **Description:** Got data need analysis? 80% of data analysis is cleaning the data, 
+you can cut that time down by setting yourself up for success! Come learn how to reduce 
+headaches by recording data in a manner that will allow for a smooth import into your 
+analysis program of choice. 
+* **Details:** [Workshop Details](materials/2017-04-07.html)
+
