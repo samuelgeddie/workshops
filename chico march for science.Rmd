@@ -1,0 +1,13 @@
+---
+title: "Chico March for Science"
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+<h1 style="text-align:center; font-size:150%;"> ![](images/march for science chico.jpg) </h1>
+
+<h1 style="text-align:center; font-size:150%;"> [__Join us in the March for DATA Science__](http://www.ecst.csuchico.edu/marchforscience/) </h1>
+
+<h1 style="text-align:center;"> [Continue on to the DSI Webpage](index.html) </h1>
